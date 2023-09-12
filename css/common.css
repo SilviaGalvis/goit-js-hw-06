@@ -22,3 +22,13 @@ button {
   padding: 8px 12px;
   cursor: pointer;
 }
+
+.image {  
+  border-radius: 50%;
+}
+
+.card__image {
+  display: inline;
+  padding: 5px;
+  position: relative;
+}
